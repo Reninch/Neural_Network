@@ -5,9 +5,9 @@ This project tries to implement Neural Networks, written in c.
 In development.
 
 ## Implemented:
- Vectors
- Matrixes
- Neural Networks
+    Vectors
+    Matrixes
+    Neural Networks
 
 ## TODO:
  1. Activation functions
