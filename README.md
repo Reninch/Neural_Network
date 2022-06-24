@@ -16,7 +16,10 @@ In development.
 
 ## How to create new network:
  1. Create a row vector with configuration of network
-
+    row_vector* config = row_vec_create(3);
+    config->data[0] = 2.0;
+    config->data[1] = 3.0;
+    config->data[2] = 1.0;
  
  2. Create new network with config
     neural* net = net_create(config);
