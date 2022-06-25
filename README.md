@@ -6,7 +6,7 @@ In development.
 
 ## Implemented:
     Vectors
-    Matrixes
+    Matrices
     Neural Networks
 
 ## TODO:

@@ -4,6 +4,7 @@
 
 column_vector* column_vec_create(int ROWS)
 {
+    
     column_vector* result = malloc(sizeof(column_vector));
     result->rows = ROWS;
     result->data = calloc(ROWS, sizeof(float));
